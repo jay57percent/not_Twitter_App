@@ -1,0 +1,16 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap'); */
+@font-face {
+  font-family: Caveat;
+  src: url("../public/fonts/Caveat-VariableFont_wght.ttf")
+}
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
